@@ -7,12 +7,11 @@
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Dmitry <span
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>2000-2020 (c) Dmitry <span
 class=SpellE>Blyakhman</span>, <span class=SpellE>Yakov</span> <span
-class=SpellE>Starikov</span>, 2000-2020 (c)<o:p></o:p></span></p>
+class=SpellE>Starikov</span> <o:p></o:p></span></p>
 
-<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Functional Block
-technology (<span class=SpellE>fb</span>-core-lib system library) - programming
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Technology of functional blocks (<span class=SpellE>fb</span>-core-lib system library) - programming
 technology for multitasking applications.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>You can
