@@ -1,4 +1,4 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
+<html xmlns:v="urn:schemas-microsoft-com:vml" 
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
@@ -37,7 +37,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
-  <w:DrawingGridHorizontalSpacing>5,5 ïò</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridHorizontalSpacing>5,5 Ã¯Ã²</w:DrawingGridHorizontalSpacing>
   <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
   <w:ValidateAgainstSchemas/>
   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
@@ -406,7 +406,7 @@ div.WordSection1
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Îáû÷íàÿ òàáëèöà";
+	{mso-style-name:"ÃŽÃ¡Ã»Ã·Ã­Ã Ã¿ Ã²Ã Ã¡Ã«Ã¨Ã¶Ã ";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -490,7 +490,7 @@ class=SpellE>FuncBlock</span> class.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Each
 functional block (the building module of the entire software system) has a
-virtual task () method – the main method of the functional block that
+virtual task () method Â– the main method of the functional block that
 implements the logic of its functioning (a finite state machine). The <span
 class=GramE>task(</span>) method works as a separate thread (in terms of
 multitasking operating systems).<o:p></o:p></span></p>
