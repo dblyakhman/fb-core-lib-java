@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/MultiThreadFBExecutor.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/app/Main.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/FBExecutor.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/FbEvents.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/FbData.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/FastFb.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/TmpFb.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/FBTimer.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/TmpEvent.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/FBEvent.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/FuncBlock.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/FBTimerType.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/exception/FuncBlockException.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/FbMsg.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/example/SlowFb.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/funcblock/MultiSemaphore.java</file>
+            <file>file:/C:/github/java/fb-core-lib/src/exception/MailboxFullException.java</file>
+        </group>
+    </open-files>
+</project-private>
