@@ -37,7 +37,8 @@ public class FastFb extends FuncBlock {
                 switch (msg.getFbEvent()) {
                     case EVENT_START:
                         System.out.println("fastFuncBlock is started...");
-                        executor.startTimer(this.getName(), FBTimerType.ONE_TIME, new FbData(FbEvents.EVENT_DATA, "fastFuncBlock timer is expires..."), 5000);
+                        FBTimer timer = executor.startTimer(this.getName(), FBTimerType.ONE_TIME, new FbData(FbEvents.EVENT_DATA, "fastFuncBlock timer is expires..."), 5000);
+                        //executor.deleteTimer(timer);
                         state = STATE_START;
                         break;
                 }
