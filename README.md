@@ -55,7 +55,7 @@ class=SpellE>FuncBlock</span> class.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Each
 functional block (the building module of the entire software system) has a
-virtual task () method  the main method of the functional block that
+virtual task () method - the main method of the functional block that
 implements the logic of its functioning (a finite state machine). The <span
 class=GramE>task(</span>) method works as a separate thread (in terms of
 multitasking operating systems).<o:p></o:p></span></p>
