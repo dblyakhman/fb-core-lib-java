@@ -131,7 +131,7 @@ structure of the program, a set of events and the interaction of modules
 (functional blocks) with each other.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-<img src="https://github.com/dblyakhman/fb-core-lib-java/fb.jpg" alt="An example
+<img src="https://github.com/dblyakhman/fb-core-lib-java/blob/main/fb.jpg" alt="An example
 of a block diagram of software written using this technology">
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
